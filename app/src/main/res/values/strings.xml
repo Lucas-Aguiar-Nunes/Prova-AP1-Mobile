@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProvaAP1</string>
+    <string name="exercicio_7">Exercicio 7</string>
+    <string name="exercicio_11">Exercicio 11</string>
+    <string name="voltar">Voltar</string>
+    <string name="digite_um_numero">Digite um Numero</string>
+    <string name="resolver">Resolver</string>
+    <string name="digite_a_largura">Digite a Largura</string>
+    <string name="digite_a_altura">Digite a Altura</string>
+</resources>
